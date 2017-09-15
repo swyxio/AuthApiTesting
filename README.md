@@ -18,6 +18,6 @@ npm install
 npm test
 ```
 
-the important file is `api.spec.js`. go nuts!
+the important file is [api.spec.js](https://github.com/sw-yx/AuthApiTesting/blob/master/api.spec.js). go nuts!
 
 Talk to me [@swyx on twitter](http://twitter.com/swyx)
