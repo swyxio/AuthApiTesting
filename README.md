@@ -8,6 +8,11 @@ However, these are all callback based which caused bugs. I eventually promisifie
 
 These examples should be easy to copy and easy to use. Please send PR's if there are important edge cases you want to test.
 
+## Big picture insights
+
+To test api routes with authentication, you need to have cookies corresponding to your session.
+
+This cookie can be manually set in `supertest`, and automatically included with `superagent`. In this repo I demonstrate how to test authenticated APIs with both.
 
 ## How To
 
