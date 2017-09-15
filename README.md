@@ -12,7 +12,7 @@ These examples should be easy to copy and easy to use. Please send PR's if there
 
 To test api routes with authentication, you need to have cookies corresponding to your session.
 
-This cookie can be manually set in `supertest`, and automatically included with `superagent`. In this repo I demonstrate how to test authenticated APIs with both.
+This cookie can be manually set in `supertest`, or automatically included with `superagent`. In this repo I demonstrate how to test authenticated APIs with both.
 
 ## How To
 
